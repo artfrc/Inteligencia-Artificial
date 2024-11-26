@@ -51,9 +51,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔬 Início do Experimento
 
 Após configurar o ambiente e instalar as dependências, você está pronto para começar o experimento e explorar os conceitos de Inteligência Artificial!
-
-<p align="center">
-    <a href="#-tecnologias">🔝 Voltar ao topo</a>
-</p>
-
----
